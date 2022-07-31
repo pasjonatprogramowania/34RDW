@@ -1,15 +1,12 @@
 ---
-title: 🪴Kronika Wedro
+public: yes
 ---
 
-
 # Biwaki
+- [2022-07-29 Presentation Night](Calendar/2022-07-29%20Presentation%20Night.md)
 
-- [[2022-07-29 Presentation Night]]
 
 # Pomoce Naukowe
-
 Kliknij Lewym klawiszem w link aby zastąpić aktualna kartę
 Kliknij Lewym klawiszem z CTRL aby otworzyć w nowej zakładce
-
-- [[Jak używać obsidian]]
+- [Jak używać obsidian](Jak%20używać%20obsidian.md) 

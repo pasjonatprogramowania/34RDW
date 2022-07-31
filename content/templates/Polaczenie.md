@@ -2,5 +2,5 @@
 public: yes
 ---
 
-[[Nawigacja]]
-[[Streszczenie Dnia Do Kroniki]]
+[Nawigacja](templates/Nawigacja.md)
+[Streszczenie Dnia Do Kroniki](templates/Streszczenie%20Dnia%20Do%20Kroniki.md)

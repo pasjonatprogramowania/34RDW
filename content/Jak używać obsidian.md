@@ -7,4 +7,4 @@
 ![|900](https://i.imgur.com/JIpr2tk.png)
 
 
-< [[Wyjazdy Wędrowników]]
+< [Wyjazdy Wędrowników](Wyjazdy%20Wędrowników.md)
