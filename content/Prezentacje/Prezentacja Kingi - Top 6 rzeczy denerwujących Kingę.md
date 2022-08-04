@@ -2,8 +2,8 @@
 
 ---
 
-Nr 1 Pawel i Przemek
-Nr 2 Jak ktoś idzie przed mną w szeregu
+- Nr 1 Pawel i Przemek
+- Nr 2 Jak ktoś idzie przed mną w szeregu
 ...
 
 

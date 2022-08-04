@@ -10,6 +10,7 @@ endDate: 2022-07-30
 ### Czy ktoś może przetłumaczyć ?
 
 ## Co się wydarzyło ? 
+- **KINGA WOLNOWSKA** oraz **MAGDA SKRZEK** miały przejście doi patrolu wędrowniczego 
 - Wyjechaliśmy z Radomia do Warszawy do domu Przemka
 - Na miejscu zamówiliśmy pizzę z Domino i poszliśmy zrobić zakupy na nockę
 - Kiedy pizza przyjechała i my wróciliśmy z zakupów zaczęliśmy Presentation Night
@@ -30,6 +31,6 @@ endDate: 2022-07-30
 - Po prezentacjach mieliśmy nocny trip po Warszawie
 
 ## Zdjęcia
-[2022-07-29 Presentation Night Focie](2022-07-29%20Presentation%20Night%20Focie)
+[2022-07-29 Presentation Night Focie](Calendar/2022-07-29%20Presentation%20Night%20Focie.md)
 
 < [Wyjazdy Wedrownikow](Wyjazdy%20Wedrownikow.md)|[2022-07-30 Zwiedzanie Warszawy](Calendar/2022-07-30%20Zwiedzanie%20Warszawy.md) >
