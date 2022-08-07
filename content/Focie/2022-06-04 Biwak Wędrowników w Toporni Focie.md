@@ -5,6 +5,10 @@ date: 2022-06-04
 endDate: 2022-06-04
 ---
 
+<iframe src="https://drive.google.com/drive/folders/1LB6Q6bfsj06R5Qe_cdYZJqGLtOxIYMg5?usp=sharing" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
+https://drive.google.com/drive/folders/1LB6Q6bfsj06R5Qe_cdYZJqGLtOxIYMg5?usp=sharing
+
 ![](https://i.imgur.com/u5cptpA.png)
 
 ![](https://i.imgur.com/Z3y44Ta.png)
@@ -34,5 +38,12 @@ endDate: 2022-06-04
 ![](https://i.imgur.com/zizGojx.png)
 
 ![](https://i.imgur.com/LIjAUlT.png)
+![](https://i.imgur.com/mQp530P.png)
+
+
+![](https://i.imgur.com/WWZCnV8.png)
+
+
+![](video-1654347248.mp4)
 
 < [Wyjazdy Wedrownikow](Wyjazdy%20Wedrownikow.md)|
