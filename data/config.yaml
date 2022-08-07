@@ -11,10 +11,10 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
-description: Test
+description: Misją ZHP jest wychowywanie młodego człowieka, czyli wspieranie go we wszechstronnym rozwoju i kształtowaniu charakteru przez stawianie wyzwań.
 page_title: "34 RDW - Ohana"
-# links:
-#   - link_name: Facebook
-#     link: https://twitter.com/_jzhao
-#   - link_name: Github
-#     link: https://github.com/jackyzha0
+links:
+  - link_name: Facebook
+    link: https://www.facebook.com/34srdhigz/
+  - link_name: Instagram
+    link: https://www.instagram.com/34_szczep_rdhigz/
