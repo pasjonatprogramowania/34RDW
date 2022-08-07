@@ -1,3 +1,10 @@
+---
+title: Biwak Wędrowników w Toporni Focie
+allDay: true
+date: 2022-06-04
+endDate: 2022-06-04
+---
+
 ![](https://i.imgur.com/u5cptpA.png)
 
 ![](https://i.imgur.com/Z3y44Ta.png)

@@ -1,3 +1,9 @@
+---
+title: Wyjazdy Wedrownikow
+allDay: true
+date: 2022-06-03
+endDate: 2022-06-04
+---
 
 # Biwaki
 - [2022-06-03 Przyjazd na biwak wędrowników w Toporni](Calendar/2022-06-03%20Przyjazd%20na%20biwak%20wędrowników%20w%20Toporni.md)
