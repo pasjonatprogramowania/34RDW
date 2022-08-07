@@ -31,6 +31,6 @@ endDate: 2022-07-30
 - Po prezentacjach mieliśmy nocny trip po Warszawie
 
 ## Zdjęcia
-[2022-07-29 Presentation Night Focie](Calendar/2022-07-29%20Presentation%20Night%20Focie.md)
+[2022-07-29 Presentation Night Focie](Focie/2022-07-29%20Presentation%20Night%20Focie.md)
 
 < [Wyjazdy Wedrownikow](Wyjazdy%20Wedrownikow.md)|[2022-07-30 Zwiedzanie Warszawy](Calendar/2022-07-30%20Zwiedzanie%20Warszawy.md) >

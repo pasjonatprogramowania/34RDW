@@ -23,6 +23,6 @@ endDate: 2022-07-31
 	- Dlatego pojechaliśmy z dworca Warszawa Śródmieście KMką
 
 ## Zdjęcia
-[[2022-07-30 Zwiedzanie Warszawy Focie]]
+[2022-07-29 Presentation Night Focie](Focie/2022-07-29%20Presentation%20Night%20Focie.md)
 
-< [[2022-07-29 Presentation Night]]|
+< [2022-07-29 Presentation Night](Calendar/2022-07-29%20Presentation%20Night.md)|
