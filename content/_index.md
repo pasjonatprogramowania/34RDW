@@ -10,6 +10,9 @@ endDate: 2022-06-04
 - [2022-06-04 Biwak Wędrowników Toporni](Calendar/2022-06-04%20Biwak%20Wędrowników%20Toporni.md)
 - [2022-07-29 Presentation Night](Calendar/2022-07-29%20Presentation%20Night.md)
 
+# Focie
+- [2022-07-29 Presentation Night Focie](Focie/2022-07-29%20Presentation%20Night%20Focie.md)
+- [2022-06-04 Biwak Wędrowników w Toporni Focie](Focie/2022-06-04%20Biwak%20Wędrowników%20w%20Toporni%20Focie.md)
 
 # Pomoce Naukowe
 Kliknij Lewym klawiszem w link aby zastąpić aktualna kartę
