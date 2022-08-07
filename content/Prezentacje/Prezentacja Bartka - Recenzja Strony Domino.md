@@ -1,5 +1,8 @@
 ---
-
+title: Prezentacja Bartka - Recenzja Strony Domino
+allDay: true
+date: 2022-07-29
+endDate: 2022-07-29
 ---
 
 <iframe title="Top 5 Bird" src="https://www.youtube.com/embed/0o4Flu0tW3E?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>

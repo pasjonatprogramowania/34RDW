@@ -1,5 +1,8 @@
 ---
-
+title: Prezentacja Kingi - Top 6 rzeczy denerwujących Kingę
+allDay: true
+date: 2022-07-29
+endDate: 2022-07-29
 ---
 
 - Nr 1 Pawel i Przemek
